@@ -18,9 +18,9 @@
 
 ## 🎬 Demo Video
 
-> 📽️ *Add your implementation video link here — e.g., YouTube, Loom, or a direct MP4 link*
 
-[![Watch the Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+
+[![Watch the Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/XEWm2hOZcA0)
 
 ---
 
