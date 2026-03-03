@@ -27,37 +27,38 @@
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./Screenshots/dashboard.png)
 
 The main dashboard provides an at-a-glance overview of your fitness journey — calories burned, workout streak, charity impact, today's workout protocol, and nutrition targets.
 
 ### 🏋️ Weekly Workout Protocol
-![Workouts](./screenshots/workouts.png)
+![Workouts](./Screenshots/workouts.png)
 
 An AI-optimized 7-day workout plan with day-by-day exercise breakdowns, set/rep counts, an integrated Exercise Player, and real-time Coach's Tips.
 
 ### 🤖 AROMI AI Coach
-![AI Coach](./screenshots/ai-coach.png)
+![AI Coach](./Screenshots/ai-coach.png)
+![AI Coach](./Screenshots/aibot.png)
 
 Chat with **AROMI**, your personal AI wellness coach. Ask for fitness tips, fat loss strategies, meal adjustments, or anything health-related.
 
 ### 🥗 Nutrition Plan
-![Nutrition Plan](./screenshots/nutrition.png)
+![Nutrition Plan](./Screenshots/nutrition.png)
 
 A complete weekly meal plan with detailed macro breakdowns (Protein / Carbs / Fats), calorie counts per meal, and a smart Grocery List generator.
 
 ### 🛒 Grocery List
-![Grocery List](./screenshots/grocery-list.png)
+![Grocery List](./Screenshots/grocery-list.png)
 
 Auto-generated, categorized grocery list (Proteins / Carbs / Fats & Misc) synced to your weekly nutrition plan with interactive checkboxes.
 
 ### 📋 Meal Schedule
-![Meal Schedule](./screenshots/meal-schedule.png)
+![Meal Schedule](./Screenshots/meal-schedule.png)
 
 Day-by-day meal schedule covering Breakfast, Lunch, Snack, Dinner, and Pre-Bed meals — each with full macro detail.
 
 ### 👤 Health Profile
-![Health Profile](./screenshots/health-profile.png)
+![Health Profile](./Screenshots/health-profile.png)
 
 Personalized health profile form with basic info, metrics, fitness objectives, medical history, and dietary allergies — all used to power AROMI's AI recommendations.
 
