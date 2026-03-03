@@ -12,7 +12,7 @@
 
 ## 📖 Overview
 
-**ArogyaMitra** (meaning *Health Friend* in Sanskrit) is a full-stack AI-powered fitness and wellness web application. It combines personalized workout planning, intelligent nutrition tracking, and an AI coaching assistant — all in one sleek, dark-themed dashboard. Built to help users crush their goals through smart, data-driven recommendations.
+**ArogyaMitra**  is a full-stack AI-powered fitness and wellness web application. It combines personalized workout planning, intelligent nutrition tracking, and an AI coaching assistant — all in one sleek, dark-themed dashboard. Built to help users crush their goals through smart, data-driven recommendations.
 
 ---
 
